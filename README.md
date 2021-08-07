@@ -20,6 +20,15 @@ Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TA
 
 Snapshots:
 
+![Screenshot (795)](https://user-images.githubusercontent.com/74085170/128610158-04e21d4b-4774-47b8-aeea-e08b097cbf28.png)
+![Screenshot (796)](https://user-images.githubusercontent.com/74085170/128610164-e5bc3b86-0e6d-4957-896c-3abdaefc30a0.png)
+![Screenshot (797)](https://user-images.githubusercontent.com/74085170/128610169-e213986e-773d-4e95-acb0-15b26bc6a16f.png)
+![Screenshot (798)](https://user-images.githubusercontent.com/74085170/128610174-be92d102-b7d3-45d5-96a4-3d5eec891304.png)
+![Screenshot (799)](https://user-images.githubusercontent.com/74085170/128610186-964c631e-c34d-4e46-976f-a383c62c44bf.png)
+![Screenshot (800)](https://user-images.githubusercontent.com/74085170/128610198-d51631cf-9387-45c5-b6a8-16f21dd38eee.png)
+![Screenshot (801)](https://user-images.githubusercontent.com/74085170/128610202-a57a889a-b899-44c3-8ba3-050904b03fb6.png)
+![Screenshot (802)](https://user-images.githubusercontent.com/74085170/128610205-ab4d2211-bc05-44ad-a25c-7adc09f3bc9c.png)
+
 
 
 #Task-4
