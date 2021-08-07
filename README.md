@@ -13,6 +13,14 @@ Snapshots:
 ![Screenshot (748)](https://user-images.githubusercontent.com/74085170/128448992-c8749b7c-51f9-4356-889e-eec4c9458f82.png)
 ![Screenshot (749)](https://user-images.githubusercontent.com/74085170/128448999-787a244b-a80d-4e70-8a09-2b45aee37304.png)
 
+#Task-2 
+#Beginner Level Task-Stock Market Prediction And Forecasting Using Stacked LSTM
+
+Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+Snapshots:
+
+
 
 #Task-4
 #Begineer Level Task-Image to Pencil Sketch with Python
